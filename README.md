@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/imranuddinzaidi" target="blank"><img src="https://img.shields.io/twitter/follow/imranuddinzaidi?logo=twitter&style=for-the-badge" alt="imranuddinzaidi" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Prompt Engineering for ChatGPT**
 
-- 💬 Ask me about **JavaScript, React, SQL, Python**
+- 💬 Ask me about **JavaScript, React, Data Structures, Python**
 
 - 📫 How to reach me **imimranuddin85@gmail.com**
 
